@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">House Control</string>
+
+    <string name="settings_text">Settings</string>
+    <string name="settings_connect">Connect</string>
+    <string name="settings_disconnect">Disconnect</string>
+
+    <string name="switch_text_on">Luz Ativada</string>
+    <string name="switch_text_off">Luz Desativada</string>
+
+    <string name="temperature_card_title">Temperatura</string>
+
+    <string name="pref_categoria">Configurações</string>
+    <string name="pref_server_title">Endereço do Broker</string>
+    <string name="pref_server_dialog_title">Digite o endereço do Broker</string>
+    <string name="pref_key_server">pref_key_server</string>
+
+    <string name="pref_port_title">Porta</string>
+    <string name="pref_port_dialog_title">Digite o número da porta</string>
+    <string name="pref_key_port">pref_key_port</string>
+
+    <string name="atualizacao_temp">Atualização: %s</string>
+    <string name="temperature">%s℃</string>
+
+</resources>

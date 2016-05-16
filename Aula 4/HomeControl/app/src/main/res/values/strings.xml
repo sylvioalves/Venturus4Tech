@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">House Control</string>
+
+    <string name="switch_text_on">Luz Ativada</string>
+    <string name="switch_text_off">Luz Desativada</string>
+
+    <string name="temperature_card_title">Temperatura</string>
+
+</resources>
